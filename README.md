@@ -1,5 +1,5 @@
 ## Hi there, I'm Krish Shah 👋
-
+Im learning how to use this repo
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CollyWobble1&show_icons=true&theme=cobalt)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CollyWobble1&hide_progress=true)
