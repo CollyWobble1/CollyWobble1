@@ -2,6 +2,7 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CollyWobble1&show_icons=true&theme=cobalt)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CollyWobble1a&layout=compact)
 <!--
 **CollyWobble1/CollyWobble1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
