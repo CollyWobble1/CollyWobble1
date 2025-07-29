@@ -1,7 +1,7 @@
 ## Hi there, I'm Krish Shah 👋
 
 
-[![Krish's GitHub stats](https://github-readme-stats.vercel.app/api?username=CollyWobble1 _icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Krish's GitHub stats](https://github-readme-stats.vercel.app/api?username=CollyWobble1 icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **CollyWobble1/CollyWobble1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
